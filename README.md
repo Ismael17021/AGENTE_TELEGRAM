@@ -157,7 +157,7 @@ Desarrollado por [Tu Nombre o Usuario].
 *El agente genera y actualiza automáticamente un documento Word con los resúmenes y las imágenes extraídas de las URLs.*
 
 ### 5️⃣ Confirmación al salir de la monitorización
-![Confirmación_Salir](imagenes/Confirmación_Salir.png)
+![Confirmacion_Salir](imagenes/Confirmacion_Salir.png)
 *Al escribir 'sal', el agente muestra un menú de confirmación para evitar salidas accidentales.*
 
 ### 6️⃣ Prueba de monitorización en Telegram (más mensajes)
