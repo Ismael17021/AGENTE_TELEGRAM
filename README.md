@@ -149,23 +149,23 @@ Desarrollado por [Tu Nombre o Usuario].
 *Vista del menú principal profesional y colorido, desde donde puedes elegir entre las herramientas disponibles.*
 
 ### 3️⃣ Prueba de monitorización en Telegram (inicio)
-![prueba_telegram_1](imagenes/prueba_telegram_1.png)
+![Prueba_Telegram_1](imagenes/Prueba_Telegram_1.png)
 *El agente comienza a monitorizar el grupo y muestra mensajes de estado en tiempo real.*
 
 ### 4️⃣ Creación automática del documento Word
-![Creacion_docx](imagenes/Creacion_docx.png)
+![Creacion_DOCX](imagenes/Creacion_DOCX.png)
 *El agente genera y actualiza automáticamente un documento Word con los resúmenes y las imágenes extraídas de las URLs.*
 
 ### 5️⃣ Confirmación al salir de la monitorización
-![confirmación_salir](imagenes/confirmación_salir.png)
+![Confirmación_Salir](imagenes/Confirmación_Salir.png)
 *Al escribir 'sal', el agente muestra un menú de confirmación para evitar salidas accidentales.*
 
 ### 6️⃣ Prueba de monitorización en Telegram (más mensajes)
-![prueba_telegram_2](imagenes/prueba_telegram_2.png)
+![Prueba_Telegram_2](imagenes/Prueba_Telegram_2.png)
 *El agente sigue monitorizando y procesando nuevos mensajes y URLs en tiempo real.*
 
 ### 7️⃣ Ejemplo de documento Word generado
-![ejemplo_docx](imagenes/ejemplo_docx.png)
+![Ejemplo_DOCX](imagenes/Ejemplo_DOCX.png)
 *Vista de un documento Word generado por el agente, con resúmenes estructurados, imágenes y formato profesional.*
 
 ---
